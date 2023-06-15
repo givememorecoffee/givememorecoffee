@@ -8,7 +8,7 @@
 
 #### Few things about me:
 - :sparkles: I am currently engaged in the pursuit of a Master of Science degree in Business Analytics at Simon Business School, University of Rochester.
-- :musical_score:	Work experience: Roland Berger -> GSK -> Strategy & -> Simon Vision Consulting
+- :musical_score:	Work experience: PingAn Bank -> Roland Berger -> GSK -> Strategy & -> Simon Vision Consulting
 - :envelope_with_arrow: How to reach me: yijialiu1220@gmail.com
 - :woman: Pronouns: She/Her
 
